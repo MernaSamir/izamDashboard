@@ -1,0 +1,49 @@
+.container {
+    background-color: var(--foreground);
+    padding: 1rem 4rem;
+}
+.menuItem{
+}
+.name{
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 150%;
+    color: #161616;
+    
+}
+.role{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 27px;
+    color: #707070;
+
+    
+}
+.menuItem{
+    font-family: DM Sans;
+font-weight: 500;
+font-size: 0.875;
+text-align: center;
+color: #5B5B5B;
+}
+.menuItemD{
+    font-size: 1.2rem !important;
+color: #E6E6E6;
+font-weight: 400;
+
+}
+.settingItem{
+font-weight: 500;
+font-size: 1rem;
+line-height: 150%;
+color: #707070;
+
+}
+.logout{
+    font-weight: 500;
+    font-size: 1.063rem;
+    line-height: 150%;
+    color: #ED1F03;
+
+    
+}

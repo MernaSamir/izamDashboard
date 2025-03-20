@@ -1,0 +1,23 @@
+.sideHeader{
+font-weight: 500;
+font-size: 1.563rem;
+line-height: 26.22px;
+text-align: center;
+margin-left: 16px;
+
+}
+.accordionHeader{
+font-weight: 500;
+font-size: 1.5rem;
+line-height: 26.22px;
+width: 16rem;
+
+}
+.listItem{
+    font-weight: 500;
+    font-size: 1.375rem;
+    line-height: 26.22px;
+    width: -webkit-fill-available;
+    
+    }
+    
